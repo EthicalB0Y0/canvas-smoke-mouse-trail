@@ -1,0 +1,12 @@
+body, html {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 100%;
+}
+
+canvas {
+    display: block;
+    background-color: #000; /* Consider a dark background for better visibility */
+}
+
